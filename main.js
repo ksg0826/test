@@ -13,3 +13,4 @@ let _widget = App.showWidget('my.html', position, width, height);
 _widget.sendMessage({
 	state: "hello guys",
 }); 
+
